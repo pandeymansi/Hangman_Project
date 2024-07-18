@@ -35,4 +35,4 @@ while not game_over:
     if '_' not in display:
         game_over = True
         print("You win!!!")
-    print(hangman_stages.stages[lives])# ... (rest of your game logic)
+    print(hangman_stages.stages[lives])# ... (rest of your game's logic)
